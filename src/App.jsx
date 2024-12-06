@@ -1,3 +1,4 @@
+import AnimatedFreights from "./components/AnimatedFreight";
 import Banner from "./components/Banner";
 import Cards from "./components/Cards";
 import Footer from "./components/Footer";
@@ -15,6 +16,7 @@ export default function App() {
       <Cards />
       <Banner />
       <SpecialServices />
+      <AnimatedFreights />
       <FreightStats />
       <Footer />
 
